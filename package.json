@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/narenmanica/tableau-extensions-tutorial-part-one",
   "author": "Naren Manica <Narenmanicagit@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
 }
