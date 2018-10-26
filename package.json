@@ -1,0 +1,8 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/narenmanica/tableau-extensions-tutorial-part-one",
+  "author": "Naren Manica <Narenmanicagit@gmail.com>",
+  "license": "MIT"
+}
